@@ -1,0 +1,66 @@
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\ApplicationInsights.config
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\roslyn\csc.exe
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\roslyn\System.Collections.Immutable.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\roslyn\System.Reflection.Metadata.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\roslyn\vbc.exe
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\roslyn\VBCSCompiler.exe
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\roslyn\VBCSCompiler.exe.config
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.dll.config
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.pdb
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.Agent.Intercept.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.DependencyCollector.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.Web.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.WindowsServer.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\Microsoft.ApplicationInsights.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.DependencyCollector.xml
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.Web.xml
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.WindowsServer.xml
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\Microsoft.ApplicationInsights.xml
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.csprojResolveAssemblyReference.cache
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.dll
+F:\MY PROJECT\ASP.NET\WEB APP\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.pdb
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\ApplicationInsights.config
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\roslyn\csc.exe
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\roslyn\System.Collections.Immutable.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\roslyn\System.Reflection.Metadata.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\roslyn\vbc.exe
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\roslyn\VBCSCompiler.exe
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\roslyn\VBCSCompiler.exe.config
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.dll.config
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\OnlineLibrary.pdb
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.Agent.Intercept.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.DependencyCollector.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.Web.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.WindowsServer.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\Microsoft.ApplicationInsights.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.DependencyCollector.xml
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.Web.xml
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\Microsoft.AI.WindowsServer.xml
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\Microsoft.ApplicationInsights.xml
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.csprojResolveAssemblyReference.cache
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.dll
+F:\MY PROJECT\ASP.NET\WEB APP\Web Forms\OnlineLibrary\OnlineLibrary\obj\Debug\OnlineLibrary.pdb
